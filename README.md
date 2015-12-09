@@ -1,0 +1,2 @@
+# newgethslopeproperty
+new dag
